@@ -1,5 +1,8 @@
 README
 
+You can see the step by step guide by following the link below:
+[🌥️ Moving data between GCP projects/buckets 🌐](https://cc3c84e8.dominikjaro.pages.dev/p/%EF%B8%8F-moving-data-between-gcp-projects/buckets/)
+
 Scripts that allow for the seeding of application data from a source project to a new empty project.
 
 This `bootstrap/seed-data` location includes the following files:
